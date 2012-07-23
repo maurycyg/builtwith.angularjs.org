@@ -283,6 +283,20 @@
         "jQuery",
         "Open Source"
       ]
-    }
+    },
+	{
+	  "name": "Live-Banners",
+	  "thumb": "live-banners/thumb.png",
+	  "desc": "Admin tool for creating HTML5 banners with live score - pooled in with fixed intervals.",
+	  "submitter": "maurycyg",
+	  "submissionDate": "2012-07-23",
+	  "tags": [
+		"Production",
+		"Tool",
+		"Productivity",
+		"Local Storage", "AppCache", "Bootstrap", 
+		"jQuery" ,
+	  ]
+	}
   ]
 }
